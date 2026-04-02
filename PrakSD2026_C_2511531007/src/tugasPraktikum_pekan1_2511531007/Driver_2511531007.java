@@ -1,4 +1,4 @@
-package tugasPraktikum_pekan1;
+package tugasPraktikum_pekan1_2511531007;
 
 import java.util.Scanner;
 

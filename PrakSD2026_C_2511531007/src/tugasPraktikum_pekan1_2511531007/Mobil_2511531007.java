@@ -1,4 +1,4 @@
-package tugasPraktikum_pekan1;
+package tugasPraktikum_pekan1_2511531007;
 
 class Mobil_2511531007{
     private String nama;
