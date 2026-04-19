@@ -85,7 +85,7 @@ public class Playlist_2511531007 {
 				default:
 					System.out.println("Pilihan tidak valid.");
 			}			
-		} while (pilih_1007 != 5);
+		} while (pilih_1007 != 4);
 		sc_1007.close();
 	}
 }
